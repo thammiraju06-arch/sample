@@ -6,3 +6,5 @@ update
 a = 5
 b = 7
 Add
+delete
+a-b
